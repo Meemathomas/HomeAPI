@@ -1,4 +1,4 @@
-1. Getting Started
+1. **Getting Started**
         This document lists the system prerequisites, configurations, working directory structure, compilation and installation and running.
 2. Working Directory Structure:
 	HOMEAPI - This is the working directory. It contains the following sub directories:
